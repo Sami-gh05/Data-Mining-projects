@@ -45,9 +45,6 @@ for the geographic and structural drivers of rent.
 
 **Stack:** pandas · NumPy · Matplotlib · seaborn
 
-> **Note:** the geospatial cell reads `images/dallas.png`. Drop that map image into
-> `images/` before running the notebook end to end.
-
 ---
 
 ### 2. Loan Approval — Classification Pipeline
@@ -126,9 +123,3 @@ Notebooks expect to be run from the `notebooks/` directory and read data via
 
 Both are public datasets used for coursework.
 
-## Author
-
-**Sam Ghorbani** — B.Sc. Computer Science, Amirkabir University of Technology
-[GitHub](https://github.com/Sami-gh05) ·
-[LinkedIn](https://linkedin.com/in/sam-ghorbani) ·
-[Portfolio](https://sami-gh05.github.io/personal-portfolio-website/)
